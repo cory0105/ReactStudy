@@ -37,11 +37,11 @@ const GlobalStyle = createGlobalStyle`
 function App() {
   return <>
     <GlobalStyle/>
-    {/* <MovieShop/> */}
+    <MovieShop/>
     {/* <ReactContext/> */}
     {/* <ResponsivePage/> */}
     {/* <ReactRef/> */}
-    <GameAction/>
+    {/* <GameAction/> */}
   </>;
 }
 
